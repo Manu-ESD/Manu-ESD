@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu-esd&label=Profile%20views&color=0e75b6&style=flat" alt="manu-esd" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://manohar-portfolio.vercel.app/](https://manohar-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Manohar's Portfolio website](https://manohar-portfolio.vercel.app/)
 
 - 💬 Ask me about **React.JS Javascript TailwindCSS**
 
