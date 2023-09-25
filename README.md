@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **g.v.manohar3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wTZoylXaHoXU1EHmB98U8eeV7tATdynu/view](https://drive.google.com/file/d/1wTZoylXaHoXU1EHmB98U8eeV7tATdynu/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wTZoylXaHoXU1EHmB98U8eeV7tATdynu/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
