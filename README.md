@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkata-manohar-g-a76213292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkata-manohar-g-a76213292/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-004bb9?style=flat&logo=Linkedin&logoColor=white" alt="Linked" height="30" width="40" /></a>
 </p>
 
 ## Tech Stack
